@@ -18,6 +18,9 @@ import edu.uniandes.ecos.psp2.dto.point.Point;
  */
 public class Reader {
 	
+	/**
+	 * Atributos publicos
+	 */
 	List<Point> points = new ArrayList<Point>();
 	LinearRegressionCalculator linearRegresionCalculator = new LinearRegressionCalculator();
 	double predict = 0; 
