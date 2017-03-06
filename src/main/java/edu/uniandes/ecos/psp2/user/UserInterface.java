@@ -6,6 +6,7 @@ import java.awt.event.WindowEvent;
 import javax.swing.JFrame;
 
 /**
+ * Clase principal del programa para la ejecucion
  * @author AndrésGarcía
  *
  */
@@ -14,7 +15,7 @@ public class UserInterface {
 	
 	
 	/**
-	 * entrada princiapl
+	 * entrada princial del programa
 	 * @param args
 	 */
 	public static void main(String[] args) {
