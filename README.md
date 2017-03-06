@@ -8,7 +8,7 @@ Fecha de entrega: 06/03/2017
 
 Instrucciones para ejecutar el programa ----->> 
  1. Para descargar el proyecto ejecute la siguiente linea en la terminal ---> https://github.com/andresgarciac2/PSP2-Program3.git
- 2. Para compilarlo y generar el jar ejecute el siguiente comando ---> mvn install
+ 2. Para compilarlo y generar el jar ejecute el siguiente comando (sobre la carpeta que acabo de bajar en el repo git)---> mvn install
  3. Para ejecutar el jar use el siguiente comando -----> java -cp target/program3-1.0-SNAPSHOT-jar-with-dependencies.jar edu.uniandes.ecos.psp2.user.UserInterface
  4. Cuando este se ejecuto debe aparecer un JFrame de java donde usted debe seleccionar el archivo con los datos
 
